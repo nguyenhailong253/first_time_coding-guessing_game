@@ -1,4 +1,4 @@
-# first_time_coding-guessing_game
+# Guessing_game
 My first time getting exposed to coding. I followed a tutorial and made this game
 
 # How it works
